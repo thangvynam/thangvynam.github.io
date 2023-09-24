@@ -6,24 +6,26 @@ nav_order: 1
 
 # **👋 Hi there, <br/> I'm Nam Thang**
 
-<img style="max-width:50%" title="my picture" alt="my picture" src="/images/my-picture.jpeg">
+<img style="max-width:50%" title="my picture" alt="my picture" src="/images/headshot.jpeg">
 
-Information technology is my major. In 2019, I graduated from University of Science with a Bachelor of Engineering degree. Programming language and message queues are topics that I am interested in.
+### Where I'm from
 
-I'm a self-taught passionate Back-End Engineer from Vietnam
+I was born and raised in Ho Chi Minh City, Vietnam 🇻🇳. I am the eldest brother, and from a young age, I have always been conscious and responsible, striving to learn and work hard
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thangvynam/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thangvynam/)
+### What I do now
 
-- 💼 Back-End Engineer at [NAB](https://www.nab.com.au/)
+Currently, I work for [NAB](https://www.nab.com.au/) and responsible for being a Back-End Engineer. In particular, develop and support the payment acceptance solutions that we have in market for when cardholders are present (i.e. terminals) and for when cardholders are not present (i.e. online, over the phone or by mail order)
 
-- ❤️ I love writing/reading techincal blog
-  - [observability-with-opentelemetry](https://www.linkedin.com/pulse/observability-opentelemetry-nam-thang/)
-  - [kafka-avro-serialization-schema](https://www.linkedin.com/pulse/kafka-avro-serialization-schema-nam-thang/)
-  - [lessons-from-migrating-service-on-premises-cloud](https://www.linkedin.com/pulse/lessons-from-migrating-service-on-premises-cloud-nam-thang/)
-  - [api-gateway-spring-cloud-zuul-2](https://www.linkedin.com/pulse/api-gateway-spring-cloud-zuul-2-nam-thang/)
-  - [circuit-breaker](https://www.linkedin.com/pulse/circuit-breaker-nam-thang/)
-- 💬 Ask me about anything [here](https://github.com/thangvynam/thangvynam/issues)
+### Where I'm at now
 
+Today, I still live in Ho Chi Minh City, Even though I have been living here for long time but I still haven't explored all the interesting things in this city
+
+### How can contact me
+
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thangvynam/) 
+- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thangvynam/)
+
+### Techstack I have ever worked
 <code><img style="max-width:8%" height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img style="max-width:8%" height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img style="max-width:8%" height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
